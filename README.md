@@ -1,7 +1,7 @@
 # EDA Employee Attrition Prediction
 This repository focuses on leveraging temporal dynamics and deep learning to predict employee attrition. he project includes exploratory data analysis (EDA), data preprocessing, and the implementation of a scalable predictive model. Key features include visualization of insights, performance evaluation, and a focus on sustainability through data-driven decision-making.
 
-`Advisor: Professor Yannis Korkonzelos`
+`Advisor: Professor Yannis Korkontzelos`
 
 ## Overview
 This repository contains the code and analysis for my master's dissertation titled: 
